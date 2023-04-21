@@ -1,4 +1,4 @@
-package dio.digitalinnovation.gof.service.impl;
+package dio.digitalinnovation.gof.service;
 
 import dio.digitalinnovation.gof.model.Cliente;
 
